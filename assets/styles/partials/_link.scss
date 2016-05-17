@@ -1,0 +1,19 @@
+.links {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+
+  .link-item {
+    margin: 0 8px;
+    .link {
+      text-decoration: none;
+      color: #fff;
+      font-size: 2em;
+
+      &:hover {
+        color: #FF8000;
+      }
+    }
+  }
+}

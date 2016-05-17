@@ -1,0 +1,25 @@
+{
+  "name": "soundcove.github.io",
+  "author": "Sean Wilson",
+  "version": "0.0.0",
+  "description": "SoundCove landing page",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soundcove/soundcove.github.io"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "private": false,
+  "files": [
+    "lib"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.1"
+  }
+}
