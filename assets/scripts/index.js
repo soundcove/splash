@@ -5,7 +5,8 @@
     'are you ready yet?',
     'brotally swagical yo',
     'soundcove is awesome',
-    'are we there yet?'
+    'are we there yet?',
+    'get ready to rock July 2016'
   ];
   var message = messages[Math.floor(Math.random() * messages.length)];
 
