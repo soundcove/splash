@@ -2,10 +2,7 @@
     var messages = [
         'we\'re working on it',
         'coming soon',
-        'are you ready yet?',
-        'brotally swagical yo',
-        'soundcove is awesome',
-        'are we there yet?',
+        'we\'re almost there',
         'get ready to rock July 2016'
     ];
 
